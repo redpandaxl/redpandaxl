@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Thursday, January 14, 2021, 1:14:45AM PST <1610615685>
 <!--
 **redpandaxl/redpandaxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
